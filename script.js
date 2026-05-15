@@ -1,1 +1,1 @@
-console.log("Academic Website Loaded");
+console.log("UC Berkeley");
