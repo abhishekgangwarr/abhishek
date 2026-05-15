@@ -1,0 +1,1 @@
+console.log("Academic Website Loaded");
